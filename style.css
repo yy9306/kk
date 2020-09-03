@@ -1,4 +1,10 @@
 h1{
- font-size: 20px;
+ font-size: 80px;
  color: red;
+}
+
+h2{
+  font-size: 16px;
+  color: green;
+  line-height: 16px;
 }
