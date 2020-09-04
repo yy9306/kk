@@ -7,3 +7,4 @@
  - git diff // 对比工作区和暂存区差异
  - git diff HEAD // 对比工作区和版本库的差异
  - git checkout <file> // 把工作区某个文件更改删掉
+ - git diff dev master -- <file> // 比较不同分支两个文件的差异
