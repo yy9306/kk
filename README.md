@@ -10,4 +10,5 @@
  - git diff dev master -- <file> //  比较不同分支两个文件的差异
  - git stash // 把文件放入暂存区
  - git stash list // 查看暂存区内容
- - git stash apply | pop // 应用暂存区
+ - git stash apply | pop // 应用暂存
+ - git remote add upStream http://  //添加远程仓库
