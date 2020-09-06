@@ -11,4 +11,8 @@
  - git stash // 把文件放入暂存区
  - git stash list // 查看暂存区内容
  - git stash apply | pop // 应用暂存
+<<<<<<< Updated upstream
  - git remote add upStream http://  //添加远程仓库
+=======
+ - git remote add upStream http://  //添加远程仓库4543f
+>>>>>>> Stashed changes
