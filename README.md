@@ -11,4 +11,8 @@
  - git stash // 把文件放入暂存区
  - git stash list // 查看暂存区内容
  - git stash apply | pop // 应用暂存
+<<<<<<< HEAD
  - git remote add upStream http://  //添加远程仓库11
+=======
+ - git remote add upStream http://  //添加远程仓库12
+>>>>>>> 41bd13c5... Update README.md
